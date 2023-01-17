@@ -1,4 +1,4 @@
-# Unbeatable Tic Tac Toe
+# Unbeatable Tic Tac Toe ❌⭕
 An unbeatable tic tac toe created in p5.js using minimax algorithm. There are 3 playable modes :
 
 *NOTE : In the following examples the AI is chosen to be playing as O*<br><br>
