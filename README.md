@@ -1,7 +1,9 @@
 # Unbeatable Tic Tac Toe ❌⭕
+_AI-Assignment (CSF407) BITS Pilani Dubai Sem-I 2022-23_
+
 An unbeatable tic tac toe created in p5.js using minimax algorithm. There are 3 playable modes :
 
-*NOTE : In the following examples the AI is chosen to be playing as O*<br><br>
+*NOTE : In the following examples the AI is chosen to be playing as O*<br>
 
 ### 1. Normal Unbeatable Tic Tac Toe
 
